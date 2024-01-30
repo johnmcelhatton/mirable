@@ -29,7 +29,7 @@ struct ContentView: View {
         Rectangle()
           .frame(height:1) //makes a line across
           .padding(.bottom)
-        Text("Bachelors Degree")
+        Text("Bachelors Degree mirable dictu")
         Text("Villanova")
         Text("1966- 1970")
         Text ("English")
